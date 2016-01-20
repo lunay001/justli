@@ -1,0 +1,1 @@
+We are building a game server using erlang. This game server is used in cheecool.com.
